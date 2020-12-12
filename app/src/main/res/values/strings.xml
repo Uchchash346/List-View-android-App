@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Country Name App</string>
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>Noakhali</item>
+        <item>Pakistan</item>
+        <item>Afghanistan</item>
+        <item>Argentina</item>
+        <item>China</item>
+        <item>Brazil</item>
+        <item>Germany</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>America</item>
+        <item>Italy</item>
+        <item>India</item>
+        <item>Ghana</item>
+        <item>Uganda</item>
+        <item>Kenia</item>
+        <item>Netherland</item>
+        <item>U.S.A</item>
+    </string-array>
+</resources>
